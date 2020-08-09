@@ -1,7 +1,23 @@
 {
-  "name": "root",
+  "name": "nodejs-lerna-monorepo",
   "private": true,
   "devDependencies": {
     "lerna": "^3.22.1"
-  }
+  },
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gtzinos/NodeJS-Lerna-Monorepo.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gtzinos/NodeJS-Lerna-Monorepo/issues"
+  },
+  "homepage": "https://github.com/gtzinos/NodeJS-Lerna-Monorepo#readme",
+  "description": ""
 }
