@@ -17,7 +17,7 @@
   },
   "scripts": {
     "test": "echo \"Error: run tests from root\" && exit 1",
-    "start": "node index.js"
+    "compile": "node index.js"
   },
   "keywords": []
 }
