@@ -1,0 +1,23 @@
+{
+  "name": "@shared/validator",
+  "version": "0.0.0",
+  "description": "> TODO: description",
+  "author": "George Tzinos <geotzinos@gmail.com>",
+  "homepage": "",
+  "license": "ISC",
+  "main": "lib/validator.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "files": [
+    "lib"
+  ],
+  "publishConfig": {
+    "access": "public"
+  },
+  "scripts": {
+    "test": "echo \"Error: run tests from root\" && exit 1",
+    "start": "node index.js"
+  },
+  "keywords": []
+}
