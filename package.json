@@ -4,6 +4,12 @@
   "devDependencies": {
     "lerna": "^3.22.1"
   },
+  "workspaces": {
+    "packages": [
+      "packages/*",
+      "packages/*/*"
+    ]
+  },
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
