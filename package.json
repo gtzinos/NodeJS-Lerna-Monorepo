@@ -1,5 +1,5 @@
 {
-  "name": "nodejs-lerna-monorepo",
+  "name": "@shared/shared",
   "private": true,
   "devDependencies": {
     "lerna": "^3.22.1"
@@ -15,11 +15,8 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/gtzinos/NodeJS-Lerna-Monorepo.git"
-  },
-  "author": "",
+  "repository": "git+https://github.com/gtzinos/NodeJS-Lerna-Monorepo.git",
+  "author": "George Tzinos <geotzinos@gmail.com>",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/gtzinos/NodeJS-Lerna-Monorepo/issues"
